@@ -1,0 +1,1 @@
+﻿Any logic that needs to communicate out of the domain of this app (system.timer, web services, filesystem, etc) should be contained here.

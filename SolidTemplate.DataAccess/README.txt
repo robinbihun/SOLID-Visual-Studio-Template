@@ -1,0 +1,2 @@
+﻿This project is where all your data implementations shall reside.
+Any references to EF, NHibernate, or any other ORM should be here. This project should be easy to swap from one implementation to another if needed.
